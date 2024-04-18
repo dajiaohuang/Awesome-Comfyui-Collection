@@ -1,1 +1,1 @@
-# Awesome-Comfyui-Collection
+# Comfyui-Collection
